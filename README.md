@@ -1,2 +1,3 @@
-# kons.github.io
-Personal page of Konstantinos P. Chatzipapas
+# Dr. Konstantinos P. Chatzipapas
+
+The personal page of Konstantinos P. Chatzipapas is under developement.
